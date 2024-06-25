@@ -1,3 +1,6 @@
+![image](https://github.com/Cr0mb/Bread-Logger/assets/137664526/0def9d87-f762-4bd4-9062-10425dfc0585)
+
+
 # Bread Logger
 Bread Logger is a Python script that serves as a password manager and generator. 
 It encrypts and stores passwords in a file on your system, allowing you to manage them securely from your terminal. 
